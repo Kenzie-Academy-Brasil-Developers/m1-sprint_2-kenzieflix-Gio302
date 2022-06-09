@@ -59,8 +59,8 @@ h1 {
     text-align: center;
 }
 
-.usuario:hover p {
-    color: #FFFFFF;
+p {
+    color: #9C9C9C;
 }
 
  .usuarioadd:hover {
@@ -72,6 +72,7 @@ h1 {
     display: flex;
     justify-content: center;
     margin-top: 100px;
+    
  }
 
  .botao1 a {
